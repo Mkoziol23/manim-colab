@@ -1,2 +1,5 @@
 manim
 ipython
+numpy
+matplotlib
+pandas
